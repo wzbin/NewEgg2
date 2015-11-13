@@ -6,5 +6,5 @@ my code
 那个567.png是训练图片
 
 效果图
-![](https://github.com/wzbin/NewEgg2/edit/master/1.png)
-![](https://github.com/wzbin/NewEgg2/edit/master/2.png)
+![](https://github.com/wzbin/NewEgg2/raw/master/1.png)
+![](https://github.com/wzbin/NewEgg2/raw/master/2.png)
